@@ -14,13 +14,12 @@ Click Ok and Ok again.
 
 2.In your terminal head to the folder where you've cloned this game and enter the
 project file location:
-cd 2048---Starwars-Edition
-cd Project-2048
-cd simple-graphics
+cd Paint_Game
+cd "Jogo Paint"
 
 There run the command:
 ant jarfile
 
 3.To run the game, run the commands:
 cd build
-java -jar simple-graphics.jar
+java -jar "Jogo Paint".jar
