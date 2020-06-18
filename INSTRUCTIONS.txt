@@ -1,10 +1,18 @@
 Instructions:
 
+
 Move: Use the arrow keys
+
 Draw: Move while keeping the space-bar pressed
+
 Erase: Move over the drawn fields while pressing the space-bar
+
 Change color: Press the "m" key 
+
 Save: Press the "s" key  (Will save the current drawn fields)
+
 Load: Press the "l" key  (Will load the last saved configuration of th drawn fields)
+
 Clear: Press the "c" key
+
 Exit: Press the "e" key or close the window

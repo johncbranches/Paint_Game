@@ -1,0 +1,9 @@
+How to run Paint-Game
+
+(0. You'll need Java Development Kit (JDK) 9 or above)
+
+
+1.In your terminal, head to the folder where this txt-file is
+
+2.To run the game, run the commands:
+java -jar Paint-Game.jar
